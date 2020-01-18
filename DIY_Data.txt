@@ -1,0 +1,26 @@
+Link for Datasets
+
+https://drive.google.com/drive/folders/1-_eEXQxiLIBzaNvbml38jjvemHWx-RvR
+
+FB Form 
+
+https://docs.google.com/forms/d/e/1FAIpQLSf65YMFfjvXae-TO28u5h2rPTvJYmbyvV4qHW5MmiA1GnDkNw/viewform
+
+
+Add-ons info 
+
+https://aiwizz.com/subsetting-lists/
+https://stackoverflow.com/questions/31571217/loc-function-in-pandas
+https://stackoverflow.com/questions/48409128/what-is-the-difference-between-using-loc-and-using-just-square-brackets-to-filte
+https://stackoverflow.com/questions/38385162/calculating-slope-for-a-series-trendline-in-pandas
+https://stackoverflow.com/questions/39934706/invalid-format-specifier-for-thousands-place
+
+https://en.wikipedia.org/wiki/Wikipedia:Tutorial/Editing
+
+Reference: 
+
+https://stackoverflow.com/questions/20069009/pandas-get-topmost-n-records-within-each-group
+https://stackoverflow.com/questions/43859416/finding-top-10-in-a-dataframe-in-pandas
+
+https://www.kdnuggets.com/2019/06/select-rows-columns-pandas.html
+
